@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "kulunji",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"MAIN.C": "cpp"
+		}
+	}
+}
